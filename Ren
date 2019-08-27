@@ -4,7 +4,7 @@ answers = ['Gay User Detected', 'very gay', 'big gay','not gay']
 
 print('Sign In')
 name = input()
-print('Welcome Back To The Gay Detector' + name)
+print('Welcome Back To The Gay Detector ' + name)
 
 
 def LARGPP():
